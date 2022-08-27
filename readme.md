@@ -8,10 +8,7 @@
 
 ## Developer Tech
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 4d64071524aca08a9f59197afe724b1c44d0914f
 ### Languages 
 <p align="left">
 <a href="#">
